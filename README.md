@@ -5,17 +5,17 @@
 [![Package version!](https://img.shields.io/apm/v/ide-docker.svg?style=flat-square)](https://atom.io/packages/ide-docker)
 [![Dependencies!](https://img.shields.io/david/josa42/atom-ide-docker.svg?style=flat-square)](https://david-dm.org/josa42/atom-ide-docker)
 
-This is a [Atom package](https://atom.io/packages/ide-docker) to use the [Dockerfile language server](https://github.com/rcjsuen/dockerfile-language-server-nodejs).
+This is an [Atom package](https://atom.io/packages/ide-docker) to use the [Dockerfile language server](https://github.com/rcjsuen/dockerfile-language-server-nodejs).
 
 **🚧 Work in Progress**
 
-## Installtion
+## Installation
 
 ```
 $ apm install ide-docker
 ```
 
-## Depdenencies
+## Dependencies
 
 - [atom/atom-languageclient](https://github.com/atom/atom-languageclient)
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server)
