@@ -18,7 +18,7 @@ $ apm install ide-docker
 ## Depdenencies
 
 - [atom/atom-languageclient](https://github.com/atom/atom-languageclient)
-- [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server)
+- [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server-nodejs)
 
 ## License
 
